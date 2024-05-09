@@ -104,21 +104,10 @@
                                            
                                         </li>
                                       <li>
-                                            <a href="#">Menu<i class="fas fa-caret-down"></i></a>
+                                            <a href="<?php echo base_url('category');?>">Menu<i class="fas fa-caret-down"></i></a>
                                             <!--second level -->
                                             <ul>
-                                                <li>
-                                            <!--<a href="#"  class="act-link">Categories<i class="fas fa-caret-down"></i></a>-->
-                                            <a href="#" >Categories<i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
-                                                <li><a href="<?php echo base_url('category');?>">Gelato</a></li>
-                                                <li><a href="<?php echo base_url('category');?>">Frozen Yogurt</a></li>
-                                                <li><a href="<?php echo base_url('category');?>">Kulfi</a></li>
-                                                <li><a href="<?php echo base_url('category');?>">Raspberry</a></li>
-                                            </ul>
-                                            <!--second level end-->
-                                        </li>
+                                             
                                                 <li><a href="<?php echo base_url('shop');?>">Shop</a></li>
                                                <!-- <li><a href="product-single.html">Product Single</a></li>-->
                                                 <li><a href="<?php echo base_url('cart');?>">Cart</a></li>
