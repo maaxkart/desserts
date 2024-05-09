@@ -103,7 +103,11 @@
                                             <a href="<?php echo base_url('index');?>">Home <!--<i class="fas fa-caret-down"></i>--></a>
                                            
                                         </li>
-                                        <li>
+                                      <li>
+                                            <a href="#">Menu<i class="fas fa-caret-down"></i></a>
+                                            <!--second level -->
+                                            <ul>
+                                                <li>
                                             <!--<a href="#"  class="act-link">Categories<i class="fas fa-caret-down"></i></a>-->
                                             <a href="#" >Categories<i class="fas fa-caret-down"></i></a>
                                             <!--second level -->
@@ -115,13 +119,6 @@
                                             </ul>
                                             <!--second level end-->
                                         </li>
-                                        <li><a href="<?php echo base_url('about');?>">About</a></li>
-                                        <li><a href="<?php echo base_url('contact');?>">Contact</a></li>
-                                        
-                                        <li>
-                                            <a href="#">Pages<i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
                                                 <li><a href="<?php echo base_url('shop');?>">Shop</a></li>
                                                <!-- <li><a href="product-single.html">Product Single</a></li>-->
                                                 <li><a href="<?php echo base_url('cart');?>">Cart</a></li>
@@ -129,10 +126,15 @@
                                                 <li><a href="<?php echo base_url('gallery');?>">Gallery</a></li>
                                                 <li><a href="<?php echo base_url('blog');?>">Blog </a></li>
                                                 <li><a href="<?php echo base_url('myaccount');?>">My Account </a></li>
-                                                
+                                                 
                                             </ul>
                                             <!--second level end-->
                                         </li>
+                                        
+                                        <li><a href="<?php echo base_url('about');?>">About</a></li>
+                                        <li><a href="<?php echo base_url('contact');?>">Contact</a></li>
+                                        
+                                        
                                     </ul>
                                 </nav>
                             </div>
