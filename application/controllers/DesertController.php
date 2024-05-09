@@ -81,11 +81,12 @@ class DesertController extends CI_Controller {
         $this->load->view('theme',$data);
 		
 	}
-	public function myaccount()
+        public function categorys()
 	{
-		$data['title']='Dessertz | My Account';
-        $data['view_page']='my_account';
+		$data['title']='Dessertz | Category';
+        $data['view_page']='category';
         $this->load->view('theme',$data);
 		
 	}
+	
 }
