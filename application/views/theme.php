@@ -103,8 +103,12 @@
                                             <a href="<?php echo base_url('index');?>">Home <!--<i class="fas fa-caret-down"></i>--></a>
                                            
                                         </li>
+                                        <li>
+                                            <a href="<?php echo base_url('category');?>">Menu <!--<i class="fas fa-caret-down"></i>--></a>
+                                           
+                                        </li>
                                       <li>
-                                            <a href="<?php echo base_url('category');?>">Menu<i class="fas fa-caret-down"></i></a>
+                                            <a href="">Pages<i class="fas fa-caret-down"></i></a>
                                             <!--second level -->
                                             <ul>
                                              
