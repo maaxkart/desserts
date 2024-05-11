@@ -116,7 +116,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/services/1.jpg"></div>
+                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/menu/1.jpg"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         <h2>Daily New </h2>
@@ -143,7 +143,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/services/2.jpg"></div>
+                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/menu/2.jpg"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         <h2>Fresh Ingredient</h2>
@@ -170,7 +170,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/services/3.jpg"></div>
+                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/menu/3.png"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         <h2>Creative </h2>
@@ -196,7 +196,7 @@
                                         <div class="content-inner fl-wrap">
                                             <div class="content-front">
                                                 <div class="cf-inner">
-                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/services/1.jpg"></div>
+                                                    <div class="bg "  data-bg="<?=base_url()?>assets/images/menu/4.jpg"></div>
                                                     <div class="overlay"></div>
                                                     <div class="inner">
                                                         <h2>Tasty Meals</h2>
@@ -226,14 +226,14 @@
                             <div class="images-collage-item col_par" style="width:120px" data-position-left="83" data-position-top="87" data-zindex="1" data-scrollax="properties: { translateY: '150px' }"><img src="images/cube.png" alt=""></div>
                         </div>
                         <div class="section-bg">
-                            <div class="bg"  data-bg="<?=base_url()?>assets/images/bg/dec/section-bg.png"></div>
+                            <div class="bg"  data-bg="<?=base_url()?>assets/images/bg/b3.png"></div>
                         </div>
                     </section>
                     
                     <section class="parallax-section dark-bg hidden-section" data-scrollax-parent="true" style="padding:60px;">
                         <div class="brush-dec2"></div>
                         <div class="brush-dec"></div>
-                        <div class="bg par-elem bg_tabs" data-bg="<?=base_url()?>assets/images/bg/5.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
+                        <div class="bg par-elem bg_tabs" data-bg="<?=base_url()?>assets/images/bg/b3.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <div class="video_section-title fl-wrap">
