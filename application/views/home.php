@@ -30,24 +30,26 @@
                                     <div class="column-text_inside fl-wrap dark-bg" >
                                         <div class="column-text">
                                             <div class="section-title">
-                                                <h4>Call For Reservations</h4>
+                                                <h4>Monday To Sunday</h4>
                                                 <h2>Opening Hours</h2>
-                                                <div class="dots-separator fl-wrap"><span></span></div>
+                                                
+                                                <h4>Active Dayname</h4>
+                                                  <div class="dots-separator fl-wrap"><span></span></div>
                                             </div>
                                             <div class="work-time fl-wrap">
                                                 <div class="row">
                                                     <div class="col-md-6">
-                                                        <h3>Sunday to Tuesday</h3>
+                                                        <h3>Opening</h3>
                                                         <div class="hours">
                                                             09:00<br>
-                                                            22:00
+                                                            
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6">
-                                                        <h3>Friday to Saturday</h3>
+                                                        <h3>Closing</h3>
                                                         <div class="hours">
                                                             11:00<br>
-                                                            19:00
+                                                            
                                                         </div>
                                                     </div>
                                                 </div>
