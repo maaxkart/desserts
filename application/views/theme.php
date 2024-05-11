@@ -37,7 +37,16 @@
         #reg-model{
             display:none;
         }
-       
+        #add{
+            font-size: 20px;
+            font-weight:600;
+        }
+        #work-time:before{
+            content:none !important;
+        }
+        #dark-bg:before{
+            content:none !important;
+        }
         </style>
         <script>
             function show()
