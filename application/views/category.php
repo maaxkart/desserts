@@ -15,7 +15,24 @@
                         <div class="brush-dec"></div>
                     </section>
                     
-                            <section>
+                    <section>
+                                  <div class="container">
+                            <!--  hero-menu_header  end-->
+                            <div class="hero-menu single-menu  tabs-act fl-wrap">
+                                <div class="gallery_filter-button btn">Show Filters <i class="fal fa-long-arrow-down"></i></div>
+                                <!--  hero-menu_header-->
+                                <div class="hero-menu_header fl-wrap gth">
+                                    
+                                     <ul class="no-list-style">
+                                <li class="current"><a href="#menu-section-1"><span>01.</span>Main dishes</a></li>
+                                        <li><a href="#menu-section-2"><span>02.</span>Gelato</a></li>
+                                        <li><a href="#menu-section-3"><span>03.</span>Frozen Yogurt</a></li>
+                                        <li><a href="#menu-section-4"><span>04.</span>Kulfi</a></li>
+                                        <li><a href="#menu-section-5"><span>05.</span>Raspberry</a></li>
+                            </ul>
+                                   
+                                </div>
+                      </div> 
                         <nav class="scroll-nav scroll-init">
                             
                             <ul>
@@ -26,8 +43,11 @@
                                 <li><a class="scroll-link" href="#menu-section-5"><span>Raspberry</span></a></li>
                             </ul>
                         </nav>
-                        <div class="brush-dec2 brush-dec_bottom"></div>
-                        <div class="container">
+                                <div class="brush-dec2 brush-dec_bottom">                                  
+                                    
+                                </div>
+                        
+                            
                             <!-- menu-wrapper-->
                             <div class="menu-wrapper single-menu fl-wrap" id="menu-section-1" data-scrollax-parent="true">
                                 <div class="menu-wrapper-title fl-wrap">
@@ -324,7 +344,7 @@
                                 <!-- hero-menu-item end-->                                                           
                                 <!-- hero-menu-item-->
                                 <div class="hero-menu-item">
-                                    <a href="<?=base_url()?>assets/images/menu/3.jpg" class="hero-menu-item-img image-popup"><img src="<?=base_url()?>assets/images/menu/thumbnails/3.jpg" alt=""></a>
+                                    <a href="<?=base_url()?>assets/images/menu/3.png" class="hero-menu-item-img image-popup"><img src="<?=base_url()?>assets/images/menu/thumbnails/3.png" alt=""></a>
                                     <div class="hero-menu-item-title fl-wrap">
                                         <h6> Fish pie</h6>
                                         <div class="hmi-dec"></div>
@@ -578,7 +598,7 @@
                                 <!-- hero-menu-item end-->                                                           
                                 <!-- hero-menu-item-->
                                 <div class="hero-menu-item">
-                                    <a href="<?=base_url()?>assets/images/menu/3.jpg" class="hero-menu-item-img image-popup"><img src="<?=base_url()?>assets/images/menu/thumbnails/3.jpg" alt=""></a>
+                                    <a href="<?=base_url()?>assets/images/menu/3.png" class="hero-menu-item-img image-popup"><img src="<?=base_url()?>assets/images/menu/thumbnails/3.png" alt=""></a>
                                     <div class="hero-menu-item-title fl-wrap">
                                         <h6> Fish pie</h6>
                                         <div class="hmi-dec"></div>
