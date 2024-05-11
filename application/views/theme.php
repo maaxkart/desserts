@@ -119,26 +119,20 @@
                                             <a href="<?php echo base_url('category');?>">Menu <!--<i class="fas fa-caret-down"></i>--></a>
                                            
                                         </li>
-                                      <li>
-                                            <a href="">Pages<i class="fas fa-caret-down"></i></a>
-                                            <!--second level -->
-                                            <ul>
-                                             
-                                                <li><a href="<?php echo base_url('shop');?>">Shop</a></li>
-                                               <!-- <li><a href="product-single.html">Product Single</a></li>-->
+                                        <li><a href="<?php echo base_url('about');?>">About</a></li>
+                                     <!-- <li>
+                                            <a href="">Pages<i class="fas fa-caret-down"></i></a>                                            
+                                            <ul> <li><a href="<?php echo base_url('shop');?>">Shop</a></li>
+                                              
                                                 <li><a href="<?php echo base_url('cart');?>">Cart</a></li>
                                                 <li><a href="<?php echo base_url('checkout');?>">Checkout</a></li>
                                                 <li><a href="<?php echo base_url('gallery');?>">Gallery</a></li>
                                                 <li><a href="<?php echo base_url('blog');?>">Blog </a></li>
                                                 <li><a href="<?php echo base_url('myaccount');?>">My Account </a></li>
-                                                 
-                                            </ul>
-                                            <!--second level end-->
+                                           </ul>
                                         </li>
-                                        
-                                        <li><a href="<?php echo base_url('about');?>">About</a></li>
                                         <li><a href="<?php echo base_url('contact');?>">Contact</a></li>
-                                        
+                                        -->
                                         
                                     </ul>
                                 </nav>
